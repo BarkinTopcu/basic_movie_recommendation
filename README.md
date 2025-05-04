@@ -1,6 +1,6 @@
-# 🎬 Movie and TV Shows Recommendation System
+# 🎬 Movie Recommendation System
 
-Welcome to a beginner-friendly recommendation engine for movies and TV shows.  
+Welcome to a beginner-friendly recommendation engine for movies.  
 This project is designed to help new learners understand how content-based and hybrid recommendation systems work using real-world data.
 
 ---
